@@ -1,0 +1,47 @@
+[
+  {
+    "priority": 2,
+    "task": "Going outside",
+    "note": "Pa clearance",
+    "status": "TODO",
+    "category": "Personal",
+    "date": "2022-12-31",
+    "estimated_time": 60
+  },
+  {
+    "priority": 3,
+    "task": "Mu adto sa school",
+    "note": "Magpa clearance ko",
+    "status": "TODO",
+    "category": "School",
+    "date": "2024-06-05",
+    "estimated_time": 60
+  },
+  {
+    "priority": 4,
+    "task": "Magpa clearance",
+    "note": "Magpa clearance ni gov sa monday",
+    "status": "TODO",
+    "category": "School",
+    "date": "2024-06-07",
+    "estimated_time": 60
+  },
+  {
+    "priority": 4,
+    "task": "Go date with fam",
+    "note": "We will go out with my fam to beach",
+    "status": "DONE",
+    "category": "Family",
+    "date": "2024-06-06",
+    "estimated_time": 100
+  },
+  {
+    "priority": 5,
+    "task": "Fix my chair",
+    "note": "Fix my computer chair that was broken 2 days ago",
+    "status": "DONE",
+    "category": "Personal",
+    "date": "2024-05-05",
+    "estimated_time": 60
+  }
+]
