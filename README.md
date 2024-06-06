@@ -15,7 +15,7 @@ This Task Management was made by [Raldin Casidar](https://github.com/raldincasid
 Clone this repository
 
 ```bash
-git clone https://github.com/raldincasidar-studio/TaskManagementSystem.git
+git clone https://github.com/raldincasidar-studio/task_management_system_v2.git
 ```
 
 Install the required package for this project
